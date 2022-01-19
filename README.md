@@ -1,8 +1,5 @@
 ## Hello, How are you today? 👋
 I'm Jayant Sogikar, a developer with interests in AI/ML and Mobile Applications. I'm a student pursuing B.E. in Information Science at Ramaiah Institute of Technology, Bangalore. I enjoy writing effective code that helps a project progress while also having a keen eye on the design. You'll generally find me scratching my head and writing python scripts.
-<p align="center" > <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNova22&theme=onedark&layout=compact&langs_count=8"></p>
-<p align="center" > <img width="50%" src="https://github-readme-stats.vercel.app/api?username=TheNova22&show_icons=true&theme=onedark&count_private=true&include_all_commits=true"></p>
-
 ### More About Me
 
 ```python
@@ -21,8 +18,10 @@ class MoreInfo:
 me = MoreInfo()
 me.greet()
 ```
+<p align="left" > <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNova22&theme=onedark&layout=compact&langs_count=8">  &nbsp; &nbsp;
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=TheNova22&show_icons=true&theme=onedark&count_private=true&include_all_commits=true"></p>
 
-<h4 align="left">Profiles:</h4>
+### Profiles
 <p align="center">
 <a href="https://linkedin.com/in/jayantsogikar"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jayantsogikar" height="30" width="50" /></a>
 <a href="https://www.leetcode.com/jayantsogikar"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="jayantsogikar" height="30" width="50" /></a>
