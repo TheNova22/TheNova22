@@ -20,7 +20,7 @@ me.greet()
 ```
 <p align="center" > <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNova22&theme=onedark&layout=compact&langs_count=8">  &nbsp; &nbsp;
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=TheNova22&show_icons=true&theme=onedark&count_private=true&include_all_commits=true"></p>
-<p align="center" ><img width="10%" src="https://komarev.com/ghpvc/?username=TheNova22&style=flat-square)"></p>
+<p align="center" ><img width="12%" src="https://komarev.com/ghpvc/?username=TheNova22&style=flat-square)"></p>
 
 ### Profile 
 <p align="center">
