@@ -8,10 +8,10 @@ class MoreInfo:
         self.name = 'Jayant Sogikar'
         self.code = ['Python','Swift','MATLAB','Dart','Java','C']
         self.library = ['Tensorflow','OpenCV','Gensim']
-        self.framework = ['Flutter','Flask','Dash','Huggingfaces']
+        self.framework = ['Docker','Flask','Dash','Flutter','Huggingfaces']
         self.db = ['MongoDB','Firebase','Oracle']
         self.moreInterests = ['Image Processing','UI/UX','Anime']
-        self.whatAmIUpto = 'Trying to look into Image/Art Generation'
+        self.whatAmIUpto = 'Looking into Python + Microservices'
     def greet(self):
         print('Hey, Thanks for popping by. Hope you had a great time!')
 
