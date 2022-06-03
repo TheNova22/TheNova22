@@ -9,7 +9,7 @@ class MoreInfo:
         self.code = ['Python','Swift','MATLAB','Dart','Java','C']
         self.library = ['Tensorflow','OpenCV','Gensim']
         self.framework = ['Docker','Flask','Dash','Flutter','Huggingfaces']
-        self.db = ['MongoDB','Firebase','Oracle']
+        self.db = ['MongoDB','InfluxDB','Firebase','Oracle']
         self.moreInterests = ['Image Processing','UI/UX','Anime']
         self.whatAmIUpto = 'Looking into Python + Microservices'
     def greet(self):
