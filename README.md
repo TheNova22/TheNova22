@@ -1,5 +1,5 @@
 ## Hello, How are you today? 👋  
-I'm Jayant Sogikar, a developer with interests in AI/ML and Mobile Applications. I'm a student pursuing B.E. in Information Science at Ramaiah Institute of Technology, Bangalore. I enjoy writing effective code that helps a project progress while also having a keen eye on the design. You'll generally find me scratching my head and writing python scripts.
+I'm Jayant Sogikar, a developer with interests in Backend Dev with Python, AI/ML and Mobile Applications. I'm a student pursuing B.E. in Information Science at Ramaiah Institute of Technology, Bangalore. I enjoy writing effective code that helps a project progress while also having a keen eye on the design. You'll generally find me scratching my head and writing python scripts.
 ### More About Me
 
 ```python
