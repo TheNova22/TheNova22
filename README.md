@@ -1,17 +1,19 @@
 ## Hello, How are you today? 👋  
-I'm Jayant Sogikar, a developer with interests in Backend Dev with Python, AI/ML and Mobile Applications. I'm a student pursuing B.E. in Information Science at Ramaiah Institute of Technology, Bangalore. I enjoy writing effective code that helps a project progress while also having a keen eye on the design. You'll generally find me scratching my head and writing python scripts.
+I'm Jayant Sogikar, a developer with interests in Backend Dev with Python, Cloud Computing, AI/ML and Mobile Applications. I enjoy writing effective code that helps a project progress while also having a keen eye on the design. You'll generally find me scratching my head and writing python scripts.
 ### More About Me
 
 ```python
 class MoreInfo:
     def __init__(self):
         self.name = 'Jayant Sogikar'
-        self.code = ['Python','Swift','MATLAB','Dart','Java','C']
+        self.role = 'Intern @ Oracle'
+        self.education = 'Information Science from Ramaiah Institute Of Technology'
+        self.code = ['Python','Swift','MATLAB','Dart','Java','Ansible','Bash','C']
         self.library = ['Tensorflow','OpenCV','Gensim']
-        self.framework = ['Docker','Flask','Dash','Flutter','Huggingfaces']
-        self.db = ['MongoDB','InfluxDB','Firebase','Oracle']
+        self.framework = ['Docker','Kubernetes','Flask','Dash','Flutter','Huggingfaces']
+        self.db = ['MongoDB','InfluxDB','Firebase','MySQL','Oracle']
         self.moreInterests = ['Image Processing','UI/UX','Anime']
-        self.whatAmIUpto = 'Looking into Python + Microservices'
+        self.whatAmIUpto = 'Reading about Storage Engines in Databases'
     def greet(self):
         print('Hey, Thanks for popping by. Hope you had a great time!')
 
